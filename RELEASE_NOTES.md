@@ -1,5 +1,24 @@
 # @mdn/browser-compat-data release notes
 
+## [v6.0.3](https://github.com/mdn/browser-compat-data/releases/tag/v6.0.3)
+
+April 3, 2025
+
+### Additions
+
+- `browsers.firefox_android.releases.140` ([#26384](https://github.com/mdn/browser-compat-data/pull/26384))
+- `browsers.firefox.releases.140` ([#26384](https://github.com/mdn/browser-compat-data/pull/26384))
+- `browsers.safari_ios.releases.18.5` ([#26384](https://github.com/mdn/browser-compat-data/pull/26384))
+- `browsers.safari.releases.18.5` ([#26384](https://github.com/mdn/browser-compat-data/pull/26384))
+- `browsers.webview_ios.releases.18.5` ([#26384](https://github.com/mdn/browser-compat-data/pull/26384))
+
+### Statistics
+
+- 2 contributors have changed 16 files with 110 additions and 17 deletions in 5 commits ([`v6.0.2...v6.0.3`](https://github.com/mdn/browser-compat-data/compare/v6.0.2...v6.0.3))
+- 17,079 total features
+- 1,138 total contributors
+- 5,184 total stargazers
+
 ## [v6.0.2](https://github.com/mdn/browser-compat-data/releases/tag/v6.0.2)
 
 April 1, 2025
